@@ -1,5 +1,5 @@
 # S2---TIENDA-DEPARTAMENTAL-2
-S2- Aplicación técnicas avanzadas para extraer datos significativos, de una base de datos de una tienda departamental ficticia, con Python.
+Aplicación técnicas avanzadas para extraer datos significativos, de una base de datos de una tienda departamental ficticia, con Python.
 
 ## Descripción 
 Aplicación de técnicas avanzadas para extraer datos significativos, atendiendo a las crecientes necesidades del cliente.
